@@ -1,4 +1,5 @@
 dallas-rug-sample
 =================
 
-Sample of Using GitHub
+Provides a performant squaring function for R.
+
